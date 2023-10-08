@@ -17,4 +17,20 @@ async def custom_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 # Responses
 
-def handle_response(text: str) > str:
+def handle_response(text: str) -> str:
+    processed: str = text.lower()
+
+    if 'Hello' in processed:
+        return 'Hey There!'
+    if 'how are you' in processed:
+        return 'I am good!'
+    if 'i love in text' in processed:
+        return 'Remember to suscribe'
+
+    return ' I do not understand what you wrote'
+
+async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    message_type: str = update.message.chat.type
+    text: str = update.message.text
+
+    print(f'User({update.message.chat.id}) in {message_type}: "{text}"')
