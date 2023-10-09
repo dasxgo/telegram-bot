@@ -20,7 +20,7 @@ async def custom_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
 def handle_response(text: str) -> str:
     processed: str = text.lower()
 
-    if 'Hello' in processed:
+    if 'hello' in processed:
         return 'Hey There!'
     if 'how are you' in processed:
         return 'I am good!'
@@ -35,14 +35,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     print(f'User({update.message.chat.id}) in {message_type}: "{text}"')
 
-    if message_type == 'group':
-        if BOT_USERNAME in text:
-            new_text: str = text.replace(BOT_USERNAME, '').strip()
-            response: str = handle_response(new_text)
-        else:
-            return
-    else:
-        response: str = handle_response(text)
+    response: str = handle_response(text)
 
     print('Bot:', response)
     await update.message.reply_text(response)
