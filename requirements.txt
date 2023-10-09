@@ -1,0 +1,15 @@
+anyio @ file:///home/conda/feedstock_root/build_artifacts/anyio_1693488585952/work
+certifi==2023.7.22
+exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1692026125334/work
+h11 @ file:///home/conda/feedstock_root/build_artifacts/h11_1664132893548/work
+h2 @ file:///home/conda/feedstock_root/build_artifacts/h2_1634280454336/work
+hpack==4.0.0
+httpcore @ file:///home/conda/feedstock_root/build_artifacts/httpcore_1694194101801/work
+httpx @ file:///home/conda/feedstock_root/build_artifacts/httpx_1694433442850/work
+hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_1619110129307/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+python-telegram-bot @ file:///home/conda/feedstock_root/build_artifacts/python-telegram-bot_1696355774261/work
+setuptools==68.2.2
+sniffio @ file:///home/conda/feedstock_root/build_artifacts/sniffio_1662051266223/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1695040754690/work
+wheel==0.41.2
