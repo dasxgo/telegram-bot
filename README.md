@@ -1,5 +1,5 @@
 # telegram-bot
-Bot
+Bot with python
 
 ## **Contents**
 
@@ -7,7 +7,8 @@ Bot
 
 ## **Tools**
 
-- telegram 
+- Python
+- Telegram 
 
 ## **Features**
 
