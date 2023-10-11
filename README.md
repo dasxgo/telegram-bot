@@ -12,6 +12,6 @@ File overview
 
 ### **Instalation**
 
-- Python
+- Python version + 3.8
 - Telegram 
 
