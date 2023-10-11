@@ -1,9 +1,12 @@
 # **Overview**
 Telegram Bot with python
 
-## **Contents**
+## **Code**
 
-- Telegram bot
+You can find the code for this project here
+
+File overview
+- src folder => main.py 
 
 ## **Local Setup**
 
