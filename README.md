@@ -12,6 +12,9 @@ File overview
 
 ### **Instalation**
 
+The follow this project, please install tthe follllowing locally:
+
 - Python 3.8 +
-- Telegram 
+- Packages
+  - Telegram 
 
