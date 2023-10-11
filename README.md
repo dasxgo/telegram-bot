@@ -5,7 +5,9 @@ Telegram Bot with python
 
 - Telegram bot
 
-## **Tools**
+## **Local Setup**
+
+### **Instalation**
 
 - Python
 - Telegram 
