@@ -1,16 +1,16 @@
-# **Overview**
+# Overview
 Telegram Bot with python
 
-## **Code**
+## Code
 
 You can find the code for this project here.
 
 File overview:
 - `src folder => main.py`
 
-## **Local Setup**
+## Local Setup
 
-### **Instalation**
+### Install
 
 The follow this project, please install the following locally:
 
