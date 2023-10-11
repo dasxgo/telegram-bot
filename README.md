@@ -15,6 +15,3 @@ File overview
 - Python
 - Telegram 
 
-## **Features**
-
-Code
