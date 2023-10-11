@@ -15,6 +15,6 @@ File overview
 The follow this project, please install the following locally:
 
 - Python 3.8 +
-- Packages
+- Pytho package
   - telegram 
 
