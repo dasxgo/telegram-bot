@@ -16,5 +16,5 @@ The follow this project, please install tthe follllowing locally:
 
 - Python 3.8 +
 - Packages
-  - Telegram 
+  - telegram 
 
