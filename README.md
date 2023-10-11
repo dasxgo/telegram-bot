@@ -12,7 +12,7 @@ File overview
 
 ### **Instalation**
 
-The follow this project, please install tthe follllowing locally:
+The follow this project, please install the follllowing locally:
 
 - Python 3.8 +
 - Packages
